@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button{
+    height: 40px;
+    width: 300px;
+    background-color:white;
+    border-radius:30px;
+}
+.button_img{
+    height:30px;
+}
